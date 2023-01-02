@@ -5,7 +5,9 @@ Just a shitty website to show you everything i use
 Taiko skin : https://drive.google.com/file/d/1MuqkxXb-OvyX7_rphLWUBOYIkMz2FSJZ/view
 
 Keyboard : Wooting 60HE
+
 Screen : Asus 0.5ms 165hz 
+
 Mouse : Xtrfy MZ1
 
 Playstyle : DDKK on AS;' keys
