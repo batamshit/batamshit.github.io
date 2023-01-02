@@ -8,11 +8,11 @@ Keyboard : Wooting 60HE
 Screen : Asus 0.5ms 165hz 
 Mouse : Xtrfy MZ1
 
-Keyboard Configs for osu!taiko :
-
 Playstyle : DDKK on AS;' keys
 
 -----
+
+Keyboard Configs for osu!taiko :
 
 Those are ONLY for Wooting Keyboards
 
