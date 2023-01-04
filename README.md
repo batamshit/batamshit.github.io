@@ -30,3 +30,22 @@ V2 Version is great for speed but is really good for maps that doesn't have stre
 ----
 
 if you have a Wooting keyboard and want to share what config you using, feel free to send it to me at Mehmet-#1864 
+
+
+
+<style>
+  .night-mode {
+    background-color: #222;
+    color: #fff;
+  }
+</style>
+
+<button onclick="document.querySelector('body').classList.toggle('night-mode')">Toggle Night Mode</button>
+
+<script>
+  const currentMode = localStorage.getItem('night-mode');
+  if (currentMode === 'true') {
+    document.querySelector('body').classList.add('night-mode');
+  }
+</script>
+
