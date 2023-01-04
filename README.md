@@ -40,12 +40,3 @@ if you have a Wooting keyboard and want to share what config you using, feel fre
   }
 </style>
 
-<button onclick="document.querySelector('body').classList.toggle('night-mode')">Toggle Night Mode</button>
-
-<script>
-  const currentMode = localStorage.getItem('night-mode');
-  if (currentMode === 'true') {
-    document.querySelector('body').classList.add('night-mode');
-  }
-</script>
-
