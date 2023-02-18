@@ -16,13 +16,21 @@ Pour assurer le bon fonctionnement du bot, veillez a lui mettre un role **au-des
 Prenez bien en compte que le bot n'est qu'a sa **première version**, que d'autres commandes ainsi que des nouvelles fonctionnalités seront ajouter au fil du temps. 
 
 **g!ban {@utilisateur} - Bannir un utilisateur
+
 g!cat - Image de chat
+
 g!clear {montant} - Supprimez un montant de messages (1-100)
+
 g!dog - Image de chien
+
 g!kick {@utilisateur} - Kick un utilisateur
+
 g!roll - Tire un chiffre au hasard entre 1-6
+
 g!infoserv - Info du serveur
+
 g!stats - Statistiques du bot
+
 g!userinfo {@utilisateur} - Info sur un utilisateur**
 
 ## Liste des futurs commandes.
