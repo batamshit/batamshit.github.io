@@ -15,7 +15,7 @@ Pour assurer le bon fonctionnement du bot, veillez a lui mettre un role **au-des
 
 Prenez bien en compte que le bot n'est qu'a sa **première version**, que d'autres commandes ainsi que des nouvelles fonctionnalités seront ajouter au fil du temps. 
 
-**g!ban {@utilisateur} - Bannir un utilisateur
+g!ban {@utilisateur} - Bannir un utilisateur
 
 g!cat - Image de chat
 
@@ -31,7 +31,7 @@ g!infoserv - Info du serveur
 
 g!stats - Statistiques du bot
 
-g!userinfo {@utilisateur} - Info sur un utilisateur**
+g!userinfo {@utilisateur} - Info sur un utilisateur
 
 ## Liste des futurs commandes.
 
