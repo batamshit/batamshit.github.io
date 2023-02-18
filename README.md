@@ -4,7 +4,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X2IUMOW)
 
-Salut ! Je suis Batam, le développeur de Godtaku qui est un bot multi-fonctions (Administration, Fun et Economie pour le moment). Le bot n'est actuellement pas héberger sur un serveur, il se peut que vous rencontriez des erreurs ou bien un certain temp de latence, j'essaye de le garder up le plus possible, si le bot fini par être déconnecter c'est mon Ordinateur personnel qui c'est éteint, une coupure de courant ou d'internet.
+Salut ! Je suis Batam, le développeur de Godtaku qui est un bot multi-fonctions (Administration et Fun pour le moment). Le bot n'est actuellement pas héberger sur un serveur, il se peut que vous rencontriez des erreurs ou bien un certain temp de latence, j'essaye de le garder up le plus possible, si le bot fini par être déconnecter c'est mon Ordinateur personnel qui c'est éteint, une coupure de courant ou d'internet.
 Si vous souhaitez que le bot fonctionne H24 sans aucun problème je ne peux que vous conseillez de faire une **[donation](https://ko-fi.com/batamuwu)** ou bien de partagez le bot le plus possible pour montrer votre enthousiasme.
 
 
