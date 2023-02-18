@@ -1,42 +1,30 @@
-Just a shitty website to show you everything i use
+# Introduction a Godtaku !
 
-----
+**[Invitez Godtaku sur votre serveur!](https://discord.com/api/oauth2/authorize?client_id=1065502268637593620&permissions=8&scope=bot)** 
 
-Taiko skin : https://drive.google.com/file/d/1MuqkxXb-OvyX7_rphLWUBOYIkMz2FSJZ/view
-
-Keyboard : Wooting 60HE
-
-Screen : Asus 0.5ms 165hz 
-
-Mouse : Xtrfy MZ1
-
-Playstyle : DDKK on AS;' keys
-
------
-
-Keyboard Configs for osu!taiko :
-
-Those are ONLY for Wooting Keyboards
-
-V1 : 2668bc89b9fe24f7faa7026839d31e1d89ab
-
-V2 : 1619fd77aac5ccaf4af026035c15d677662d
-
----- 
-
-The V1 is only focused on SPEED which i mainly use for streaming maps and things like that.
-V2 Version is great for speed but is really good for maps that doesn't have streams in it, basically it allows me personnaly to do less miss-clicks when playing, in the V1 because of the sensitivity of Rapid Trigger they're are mostly some miss-clicks that happens often, V2 is made to avoid those miss-clicks but still has a really good sensitivity to play on stream maps.
-
-----
-
-if you have a Wooting keyboard and want to share what config you using, feel free to send it to me at Mehmet-#1864 
+Salut ! Je suis Batam, le développeur de Godtaku qui est un bot multi-fonctions (Administration, Fun et Economie pour le moment). Le bot n'est actuellement pas héberger sur un serveur, il se peut que vous rencontriez des erreurs ou bien un certain temp de latence, j'essaye de le garder up le plus possible, si le bot fini par être déconnecter c'est mon Ordinateur personnel qui c'est éteint, une coupure de courant ou d'internet.
+Si vous souhaitez que le bot fonctionne H24 sans aucun problème je ne peux que vous conseillez de faire une **[donation](https://ko-fi.com/batamuwu)** ou bien de partagez le bot le plus possible pour montrer votre enthousiasme.
 
 
+# Utilisation
 
-<style>
-  .night-mode {
-    background-color: #222;
-    color: #fff;
-  }
-</style>
+**Godtaku** utilise le préfixe **g!** 
+Pour assurer le bon fonctionnement du bot, veillez a lui mettre un role **au-dessus** de tout les membres n'ayant pas la permission d'admin/modérateur 
 
+## La liste des commandes actuellement disponible
+
+Prenez bien en compte que le bot n'est qu'a sa **première version**, que d'autres commandes ainsi que des nouvelles fonctionnalités seront ajouter au fil du temps. 
+
+**g!ban {@utilisateur} - Bannir un utilisateur
+g!cat - Image de chat
+g!clear {montant} - Supprimez un montant de messages (1-100)
+g!dog - Image de chien
+g!kick {@utilisateur} - Kick un utilisateur
+g!roll - Tire un chiffre au hasard entre 1-6
+g!infoserv - Info du serveur
+g!stats - Statistiques du bot
+g!userinfo {@utilisateur} - Info sur un utilisateur**
+
+## Liste des futurs commandes.
+
+Actuellement, aucune commande n'est prévus. 
