@@ -33,6 +33,8 @@ g!infoserv - Info du serveur
 
 g!stats - Statistiques du bot
 
+g!echo - Info minimaliste du bot 
+
 g!userinfo {@utilisateur} - Info sur un utilisateur
 
 ## Liste des futurs commandes.
