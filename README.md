@@ -1,6 +1,7 @@
 # Introduction a Godtaku !
 
-**[Invitez Godtaku sur votre serveur!](https://discord.com/api/oauth2/authorize?client_id=1065502268637593620&permissions=8&scope=bot)** 
+**[Invitez Godtaku sur votre serveur!](https://discord.com/api/oauth2/authorize?client_id=1065502268637593620&permissions=8&scope=bot)**
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X2IUMOW)
 
 Salut ! Je suis Batam, le développeur de Godtaku qui est un bot multi-fonctions (Administration, Fun et Economie pour le moment). Le bot n'est actuellement pas héberger sur un serveur, il se peut que vous rencontriez des erreurs ou bien un certain temp de latence, j'essaye de le garder up le plus possible, si le bot fini par être déconnecter c'est mon Ordinateur personnel qui c'est éteint, une coupure de courant ou d'internet.
